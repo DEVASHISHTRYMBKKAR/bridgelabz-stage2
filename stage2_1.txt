@@ -1,0 +1,6 @@
+a=20
+b=35
+c=40
+
+D=$((a+b*c))
+echo "Result Is : $D
